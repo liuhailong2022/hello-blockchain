@@ -5,4 +5,4 @@
   * [02 比特币与理想主义](readme/02-bi-te-bi-yu-li-xiang-zhu-yi.md)
   * [03 下车太早只因愿景太小](readme/03-xia-che-tai-zao-zhi-yin-yuan-jing-tai-xiao.md)
   * [04 你离财富自由还有多远？](readme/04-ni-li-cai-fu-zi-you-huan-you-duo-yuan.md)
-  * [05冲动、孤独、无聊与矛盾](readme/05-chong-dong-gu-du-wu-liao-yu-mao-dun.md)
+  * [05 冲动、孤独、无聊与矛盾](readme/05-chong-dong-gu-du-wu-liao-yu-mao-dun.md)
