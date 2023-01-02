@@ -7,3 +7,4 @@
   * [04 你离财富自由还有多远？](readme/04-ni-li-cai-fu-zi-you-huan-you-duo-yuan.md)
   * [05 冲动、孤独、无聊与矛盾](readme/05-chong-dong-gu-du-wu-liao-yu-mao-dun.md)
   * [06 手握私钥的快感](readme/06-shou-wo-si-yue-de-kuai-gan.md)
+  * [07 如何管理私钥？](readme/07-ru-he-guan-li-si-yue.md)
