@@ -9,3 +9,4 @@
   * [06 手握私钥的快感](readme/06-shou-wo-si-yue-de-kuai-gan.md)
   * [07 如何管理私钥？](readme/07-ru-he-guan-li-si-yue.md)
   * [08 基本价格模型](readme/08-ji-ben-jia-ge-mo-xing.md)
+  * [09 寻找合适的购买时机](readme/09-xun-zhao-he-shi-de-gou-mai-shi-ji.md)
