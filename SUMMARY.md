@@ -8,3 +8,4 @@
   * [05 冲动、孤独、无聊与矛盾](readme/05-chong-dong-gu-du-wu-liao-yu-mao-dun.md)
   * [06 手握私钥的快感](readme/06-shou-wo-si-yue-de-kuai-gan.md)
   * [07 如何管理私钥？](readme/07-ru-he-guan-li-si-yue.md)
+  * [08 基本价格模型](readme/08-ji-ben-jia-ge-mo-xing.md)
